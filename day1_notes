@@ -1,0 +1,12 @@
+pwd - show current directory
+ls - shows list of files in current directory
+cd - change directory
+cd ~ - change to root directory
+mkdir - create directory
+nano - create/ open a text file
+whoami - current user
+id - userID
+clc - clear 
+control c - create a bquote
+git configure - used to configure your github accounts
+touch - create a file
