@@ -1,5 +1,7 @@
 pwd - show current directory
 ls - shows list of files in current directory
+cp - copy file and directory from source to destination
+rm - remove file or directories
 cd - change directory
 cd ~ - change to root directory
 mkdir - create directory
@@ -10,3 +12,9 @@ clc - clear
 control c - create a bquote
 git configure - used to configure your github accounts
 touch - create a file
+su and sudo = allows you to become the root user after providing the root password
+ps - list the processes that are currently running 
+chown- change ownership of a file
+grep- used to search for certain strings of character within a file or other output commands
+iwconfig - used to configure wireless network
+passwd - used to change the current password of a current user
