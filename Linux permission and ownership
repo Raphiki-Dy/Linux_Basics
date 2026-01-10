@@ -1,0 +1,18 @@
+
+  Commands Learned
+- ls -l  - list all the file and directory 
+- chmod  - chnage/modify the file to assign permissions
+- chown  - changing ownership
+- sudo  - performing actions assuming administrative power
+
+  Permission Structure
+r = read  
+w = write  
+x = execute  
+
+   Numeric Permissions
+usually in the format of rwx
+7 = rwx  
+6 = rw  
+5 = rx  
+4 = r
