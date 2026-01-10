@@ -17,4 +17,4 @@ ps - list the processes that are currently running
 chown- change ownership of a file
 grep- used to search for certain strings of character within a file or other output commands
 iwconfig - used to configure wireless network
-passwd - used to change the current password of a current user
+passwd - used to change the current password of a current user 
